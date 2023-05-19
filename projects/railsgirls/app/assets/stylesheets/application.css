@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+ body {
+    color: #0069BF;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    margin: 200;
+}
+.label {
+    color: #FFE238;
+    font-size: 23px;
+}
