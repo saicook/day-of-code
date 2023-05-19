@@ -24,3 +24,48 @@
     color: #FFE238;
     font-size: 23px;
 }
+#name-label {
+    color: #05DBBA;
+
+
+}
+img {
+    width: 200;
+    margin: auto;
+    display: block;
+    padding: 20px;
+}
+#ideas {
+        padding: 10px;
+        text-align: center;
+        margin: 10px 0px;
+      }
+      h1 {
+        color: #05DBBA;
+        text-align: center;
+        padding: 60px 0px;
+        margin: 0px;
+        background-color: #2B3840;
+      }
+      
+      #ideas a {
+        font-size: 16px;
+        color: #05DBBA;
+        background-color: #2B3840;
+        padding: 15px;
+        border-radius: 30px;
+      }
+      footer {
+        color: #05DBBA;
+        text-align: center;
+        padding: 100px 0px;
+        margin: 0px;
+        background-color: #2B3840;
+      }
+      footer a {
+        font-size: 30px;
+        color: #FFE238;
+      }
+
+      a:hover {color: purple;}
+            
